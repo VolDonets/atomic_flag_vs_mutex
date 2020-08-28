@@ -1,4 +1,4 @@
-# atomic_flag_vs_mutex
+# atomic_flag Vs mutex Vs atomic<T>
 Here I compared mutex Vs atomic_flag Vs atomic&lt;T>
 
 The result of comparing available on the GoogleDrive via the link:
